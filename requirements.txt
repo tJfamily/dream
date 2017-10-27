@@ -1,0 +1,11 @@
+behave==1.2.5
+selenium==3.6.0
+requests
+pyvirtualdisplay
+sparkpost==1.3.5
+configobject
+pyperclip
+boto3
+timeout-decorator
+retry
+-e git+https://github.com/tJfamily/baidu.git#egg=baidu
